@@ -1,0 +1,17 @@
+{
+  "name": "Mémo ASL Starter Kit",
+  "short_name": "Mémo ASL",
+  "description": "Règles, exemples interactifs, FAQ et recherche pour les ASL Starter Kits 1, 2 et 3.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#e9ecdf",
+  "theme_color": "#c9561a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
